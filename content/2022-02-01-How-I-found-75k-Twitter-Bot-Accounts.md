@@ -2,6 +2,7 @@
 title: How I found 75k Twitter Bot Accounts
 date: 2022-02-01
 tags:
+  - technology
 ---
 
 ### I found around 75k twitter bot accounts. How? I went to the trending tab.

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Grab All URLs Using Sitemaps
+tags:
+  - technology
 ---
 
 For simple sites that are not too large, you can use a tool like [this one.](https://robhammond.co/tools/xml-extract) 

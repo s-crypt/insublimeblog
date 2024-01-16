@@ -2,6 +2,8 @@
 title: Discover Reciprocal Agreements
 date: 2021-03-22
 tags:
+  - finance
+  - information
 ---
 I got interested in Card Agreements a while back and did a little digging on how they work, especially internationally. 
 Of the major 4 card networks (Visa, Mastercard, Discover, American Express) only Discover seems to do things a little differently. Discover partners with local card networks instead of only using their own, through their ['Discover Global Network'.](https://www.discoverglobalnetwork.com/en-us/) 
