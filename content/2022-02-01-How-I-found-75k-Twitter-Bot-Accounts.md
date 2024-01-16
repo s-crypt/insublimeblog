@@ -111,17 +111,16 @@ What? It's just some stupid twitter accounts? Oh. ok. sorry. I got a little ahea
 
 
 ## Footnotes
-Here are some images that I didn't include above that I still think are so bizarre that they are funny or more examples.
-[[Neil Young's Boss is Pfizer](example%20(13).webp)] 
-[[Blackface Elizabeth Warren??](example%20(28).webp)] 
-[[Totally real person has totally legitemate heart problems after the pfizer vaccine](example%20(29).webp)] 
-[[More Canada Trucker support](example%20(31).webp)]
-[[Covid swabs are now radioactive (ft. someone who doesn't know how a geiger counter works trying to fake one)](example%20(36).webp)] 
-[[A contradictory pro life/anti-vax stance by this one](example%20(47).webp)] 
-[[The funniest use of this meme format](example%20(50).webp)] 
-[[Saying someone is fake pregnant because you can see their bra](example%20(38).webp)] 
-[[Not exactly inconspicuous when you use 'Mr Villan Quotes'](example%20(20).webp)] 
-[[Close your DMs then?](example%20(53).webp)]
-[[Hot new style: Fauci Freedom Flip-Flops](example%20(22).webp)] 
-[[Ani](example%20(23).webp)]-[[morphs](example%20(24).webp)] 
-
+Here are some images that I didn't include above that I still think are so bizarre that they are funny or more examples.  
+[[Neil Young's Boss is Pfizer](example%20(13).webp)]    
+[[Blackface Elizabeth Warren??](example%20(28).webp)]  
+[[Totally real person has totally legitemate heart problems after the pfizer vaccine](example%20(29).webp)]  
+[[More Canada Trucker support](example%20(31).webp)]  
+[[Covid swabs are now radioactive (ft. someone who doesn't know how a geiger counter works trying to fake one)](example%20(36).webp)]  
+[[A contradictory pro life/anti-vax stance by this one](example%20(47).webp)]  
+[[The funniest use of this meme format](example%20(50).webp)]  
+[[Saying someone is fake pregnant because you can see their bra](example%20(38).webp)]  
+[[Not exactly inconspicuous when you use 'Mr Villan Quotes'](example%20(20).webp)]  
+[[Close your DMs then?](example%20(53).webp)]  
+[[Hot new style: Fauci Freedom Flip-Flops](example%20(22).webp)]  
+[[Ani](example%20(23).webp)]-[[morphs](example%20(24).webp)]  
