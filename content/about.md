@@ -16,12 +16,12 @@ no thanks.
 
 ### contact me
 
-please don't. im shy.
+please don't. im shy.  
 if you *have* to, use email: [blog@yeti.slmail.me](mailto:blog@yeti.slmail.me)
 
 ### gimme money
 
 I have no idea why you would want to, but I would be glad to take it
 
-Cash(app): [$scryp](https://cash.app/$scryp)
+Cash(app): [$scryp](https://cash.app/$scryp)  
 Crypto: s-crypt.eth
