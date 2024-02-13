@@ -4,6 +4,8 @@ title: Hello
 
 <strong>Here are some things I have worked on:</strong>
 <br/><br/>
+[[2024-02-12-Destiny-Codes]] - A compiled list of Destiny 2 codes for emblems and stuff
+<br/><br/>
 [[2023-11-22-Eye-Drops]] - What eye drops should be used?
 <br/><br/>
 [[2022-02-01-How-I-found-75k-Twitter-Bot-Accounts]]
