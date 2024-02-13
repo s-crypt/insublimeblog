@@ -1,6 +1,6 @@
 ---
 title: Destiny 2 Redemption Codes
-draft: 2024-02-12
+date: 2024-02-12
 tags:
   - technology
   - video-games
