@@ -2,6 +2,7 @@ import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import breadcrumbsStyle from "./styles/breadcrumbs.scss"
 import { FullSlug, SimpleSlug, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
+import { classNames } from "../util/lang"
 
 type CrumbData = {
   displayName: string
@@ -67,13 +68,9 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       folderIndex = new Map()
       // construct the index for the first time
       for (const file of allFiles) {
-        if (file.slug?.endsWith("index")) {
-          const folderParts = file.slug?.split("/")
-          // 2nd last to exclude the /index
-          const folderName = folderParts?.at(-2)
-          if (folderName) {
-            folderIndex.set(folderName, file)
-          }
+        const folderParts = file.slug?.split("/")
+        if (folderParts?.at(-1) === "index") {
+          folderIndex.set(folderParts.slice(0, -1).join("/"), file)
         }
       }
     }
@@ -87,7 +84,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
         let curPathSegment = slugParts[i]
 
         // Try to resolve frontmatter folder title
-        const currentFile = folderIndex?.get(curPathSegment)
+        const currentFile = folderIndex?.get(slugParts.slice(0, i + 1).join("/"))
         if (currentFile) {
           const title = currentFile.frontmatter!.title
           if (title !== "index") {
@@ -113,7 +110,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
     }
 
     return (
-      <nav class={`breadcrumb-container ${displayClass ?? ""}`} aria-label="breadcrumbs">
+      <nav class={classNames(displayClass, "breadcrumb-container")} aria-label="breadcrumbs">
         {crumbs.map((crumb, index) => (
           <div class="breadcrumb-element">
             <a href={crumb.path}>{crumb.displayName}</a>
