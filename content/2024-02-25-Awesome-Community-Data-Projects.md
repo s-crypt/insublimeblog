@@ -1,3 +1,10 @@
+---
+title: Awesome Community Data Projects
+date: 2024-02-25
+tags:
+  - video-games
+  - "#information"
+---
 Here are some cool community data projects, where people submit data to a centralized database for others to use. Project I missed? Send me an email or open an issue!
 
 | Data                                | Name                        |
