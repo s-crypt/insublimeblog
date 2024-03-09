@@ -2,7 +2,6 @@
 title: Awesome Community Data Projects
 date: 2024-02-25
 tags:
-  - video-games
   - "#information"
 ---
 Here are some cool community data projects, where people submit data to a centralized database for others to use. Project I missed? Send me an email or open an issue!
@@ -10,12 +9,14 @@ Here are some cool community data projects, where people submit data to a centra
 | Data                                | Name                        |
 | ----------------------------------- | --------------------------- |
 | Aviation                            | FlightAware*                |
+| Board Games                         | BoardGameGeek               |
 | Books                               | BookBrainz,<br>Open Library |
 | Cell Towers                         | OpenCelliD                  |
 | Censorship                          | OONI                        |
 | Computer Preformance                | Blender Open Data           |
 | Food                                | Openfoodfacts               |
 | Language                            | Wiktionary                  |
+| Law                                 | CourtListener               |
 | Maps                                | OpenStreetMap               |
 | Movies/TV                           | TMDB                        |
 | Music Listening History             | ListenBrainz                |
@@ -29,4 +30,4 @@ Here are some cool community data projects, where people submit data to a centra
 
 \*Not open data, but free to use and contribute
 
-Last Updated: 2024-02-25
+Last Updated: 2024-03-08
