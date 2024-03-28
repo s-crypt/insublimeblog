@@ -4,21 +4,23 @@ title: Hello
 
 <strong>Here are some things I have worked on:</strong>
 <br/><br/>
-[[2024-02-25-Awesome-Community-Data-Projects]] - A list of Community driven data projects / databases.
+[[A-Beginners-Guide-to-Investing]] - A true beginners guide to investing in the stock market.
 <br/><br/>
-[[2024-02-12-Destiny-Codes]] - A compiled list of Destiny 2 codes for emblems and stuff
+[[Awesome-Community-Data-Projects]] - A list of Community driven data projects / databases.
 <br/><br/>
-[[2023-11-22-Eye-Drops]] - What eye drops should be used?
+[[Destiny-Codes]] - A compiled list of Destiny 2 codes for emblems and stuff
 <br/><br/>
-[[2022-02-01-How-I-found-75k-Twitter-Bot-Accounts]]
+[[Eye-Drops]] - What eye drops should be used?
 <br/><br/>
-[[2022-01-10-Doc-Q]] - Things I wanted to know about medicine, but could not easily find, so I asked some doctors.
+[[How-I-found-75k-Twitter-Bot-Accounts]]
 <br/><br/>
-[[2021-03-22-Discover-Reciprocal-Agreements]] - Discover's agreements with different payment networks
+[[Doc-Q]] - Things I wanted to know about medicine, but could not easily find, so I asked some doctors.
 <br/><br/>
-[[2020-11-02-GrabUrlsFromSitemap]] - How to Grab URLs from a sitemap
+[[Discover-Reciprocal-Agreements]] - Discover's agreements with different payment networks
 <br/><br/>
-[[2020-10-10-SIWIKF]] - Stuff I wish I knew Faster
+[[GrabUrlsFromSitemap]] - How to Grab URLs from a sitemap
 <br/><br/>
-[[2020-4-20-Hello-World]]
+[[SIWIKF]] - Stuff I wish I knew Faster
+<br/><br/>
+[[Hello-World]]
 <br/><br/>

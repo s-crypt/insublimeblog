@@ -41,8 +41,7 @@ Some of the accounts exist only to retweet other accounts. Some seemingly exist 
 [Some took a break from political stuff and used some nice roses.](example%20(7).webp)
 [This one has a picture of some attractive military guy.](example%20(32).webp)
 
-The picture of Mr. Military seems... off. It looks like a picture taken in 2014 with an iPhone 4 and some crusty photo app filter. Let's [reverse image search](example%20(33).webp). Oh! A Result! It shows a photo from postimg.cc so let's see the context. Well hello there Mr. Military, or should I call you [eSln_hQ==_(1)](example%20(34).webp). 
-That postimg is from 2019. No other results.
+The picture of Mr. Military seems... off. It looks like a picture taken in 2014 with an iPhone 4 and some crusty photo app filter. Let's [reverse image search](example%20(33).webp). Oh! A Result! It shows a photo from postimg.cc so let's see the context. Well hello there Mr. Military, or should I call you [eSln_hQ_(1)](example%20(34).webp).
 
 Most of these accounts have the [same number of followers as following](example%20(35).webp), which is usually my first red flag if an account is a bot. It is surprisingly accurate.
 

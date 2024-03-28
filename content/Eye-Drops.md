@@ -27,40 +27,40 @@ Carboxymethylcellulose sodium, Polyethylene Glycol, and Propylene Glycol. The be
 
 Also known as **Refresh Tears** or **Systane**
 
-![](2023-11-22-Eye-Drops/refreshtears.webp) ![](2023-11-22-Eye-Drops/systane.webp)
+![](refreshtears.webp) ![](systane.webp)
 
 **Blink Tears** and **Thera Tears** are also good. Blink Tears provides immediate relief while Thera Tears is much more long lasting while also working quickly.
 
-![](2023-11-22-Eye-Drops/blinktears.webp) ![](2023-11-22-Eye-Drops/theratears.webp)
+![](blinktears.webp) ![](theratears.webp)
 
 ## The Middle Ground
 As the next section will discuss, avoid "red eye reduction" drops. However if you MUST use them, use **Lumify**. Its ingredient is Brimonidine tartratate, a glaucoma medication and is very safe. If your eyes are constantly red, go see an eye doc because there is probably an underlying cause.
 
-![](2023-11-22-Eye-Drops/lumify.webp)
+![](lumify.webp)
 
 ## The Evil
 **Do not buy redness relievers**. They are bad for you, your eyes, and your wallet. They work by constricting the blood vessels in your eyes to make the redness go away. However this does not resolve the root cause and will make your eyes "rebound" with redness after they wear off, making the problem worse than when you started.
 
 They go by the names of **Visine**, **Clear Eyes**, **Rohto**, or anything with **"Redness Relief"** on the packaging. Any variations are just the game garbage with different marketing.
 
-![](2023-11-22-Eye-Drops/visine.webp) ![](2023-11-22-Eye-Drops/cleareyes.webp) ![](2023-11-22-Eye-Drops/rohto.webp)
+![](visine.webp) ![](cleareyes.webp) ![](rohto.webp)
 
 ## The Allergies
 If your usual allergy relief methods are not cutting it, try **Zaditor** which contains ketotifen fumarate, an antihistamine. However **Naphcon A** should be avoided because it is just Visine with a different brand name and the "redness relief" properties. If that does not do the trick, ophthalmologists have a bunch of different options for you.
 
-![](2023-11-22-Eye-Drops/zaditor.webp) ![](2023-11-22-Eye-Drops/naphcona.webp)
+![](zaditor.webp) ![](naphcona.webp)
 
 ## The Gels
 For some longer relief, try **Refresh Celluvisc**, which is preservative free. It is a gel that sticks around for longer than drops, providing that sweet moisturization to the eyes. It may cause some blurryness for the first few minutes.
 
-![](2023-11-22-Eye-Drops/refreshcelluvisc.webp)
+![](refreshcelluvisc.webp)
 
 For overnight relief, use **GenTeal Tears** or **Systane Gel**. This is best for when you wake up with sandpaper eyes due to a CPAP or some other reason. Just be careful because your vision will be very blurry in the middle of the night for a quick trip to the bathroom.
 
-![](2023-11-22-Eye-Drops/gentaltears.webp) ![](2023-11-22-Eye-Drops/systanegel.webp)
+![](gentaltears.webp) ![](systanegel.webp)
 
 ## In Summary
 
 A Chart:
 
-![](2023-11-22-Eye-Drops/EyeDropsTable.webp)
+![](EyeDropsTable.webp)
